@@ -30,7 +30,7 @@ Grad.Rate | Graduation rate
 Whether the university is public or private?
 
 # Goal:
-Create a cluster model that will help predict wether the unviersity is priavate or puplic.
+Create a cluster model that will help predict whether the unviersity is priavate or puplic.
 
 # Summary of the solution:
 ## 1. Data overview:
