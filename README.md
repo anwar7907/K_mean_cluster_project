@@ -27,7 +27,7 @@ Expend | Instructional expenditure per student
 Grad.Rate | Graduation rate
 
 # Problem:  
-Wether the university is public or private?
+Whether the university is public or private?
 
 # Goal:
 Create a cluster model that will help predict wether the unviersity is priavate or puplic.
